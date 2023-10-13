@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Crystopher Glodzienski, a passionate software engineer and tech enthusiast! 
 
