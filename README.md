@@ -104,6 +104,7 @@ https://github.com/the-phenix/phenix
 TODO:
 
 - My Experience
+- Projetos de estudo
 - My Talks
 - How to reach me, social media and this stuffs
 - Sign my Blog Articles
