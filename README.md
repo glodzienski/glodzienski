@@ -15,9 +15,17 @@ Throughout my ever-evolving career, I've discovered my passion for technical str
 On Appmax, as Principal Software Engineer.
 
 ### <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="21px" height="21px"> Github Metrics
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glodzienski&layout=compact&langs_count=15&theme=tokyonight" />
+<p style="text-align:center;">
+  <img  
+    src="https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true&theme=tokyonight" 
+    align="center"
+    style="vertical-align:top;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=glodzienski&layout=compact&langs_count=15&theme=tokyonight" 
+    align="center"
+    style="vertical-align:top;"
+  />
 </p>
 
 <!--
