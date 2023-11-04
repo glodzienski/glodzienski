@@ -1,7 +1,3 @@
-<div style="display: flex; align-items: flex-start; justify-content: left;">
-  <img src="https://avatars.githubusercontent.com/u/32658901?v=4" alt="Crystopher" width="20%">
-</div>
-
 ## 👋 Hi there
 I'm Crystopher Glodzienski Cardoso, but everyone calls me Crys. I am Brazilian, born and raised in Curitiba.
 
