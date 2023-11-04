@@ -14,7 +14,7 @@ Throughout my ever-evolving career, I've discovered my passion for technical str
 ### 🔭 I’m currently working 
 On Appmax, as Principal Software Engineer.
 
-[![Glodzienski's GitHub stats](https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true)](teste)
+[![Glodzienski's GitHub stats](https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true&theme=radical)](teste)
 
 <!--
 **glodzienski/glodzienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
