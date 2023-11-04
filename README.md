@@ -18,14 +18,15 @@ On Appmax, as Principal Software Engineer.
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true&theme=tokyonight" 
-    style="max-height: 100px; margin: 0 10px;" 
+    style="max-height: 200px; margin: 0 10px;" 
+    alt="Github Stats"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=glodzienski&layout=compact&langs_count=15&theme=tokyonight"
-    style="max-height: 100px; margin: 0 10px;" 
+    style="max-height: 300px; margin: 0 10px;"
+    alt="Top languages"
   />
 </div>
-
 
 <!--
 **glodzienski/glodzienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
