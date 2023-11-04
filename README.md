@@ -15,18 +15,17 @@ Throughout my ever-evolving career, I've discovered my passion for technical str
 On Appmax, as Principal Software Engineer.
 
 ### <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="21px" height="21px"> Github Metrics
-<p style="text-align:center;">
-  <img  
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=glodzienski&show_icons=true&theme=tokyonight" 
-    align="center"
-    style="vertical-align:top;"
+    style="max-height: 100px; margin: 0 10px;" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=glodzienski&layout=compact&langs_count=15&theme=tokyonight" 
-    align="center"
-    style="vertical-align:top;"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=glodzienski&layout=compact&langs_count=15&theme=tokyonight"
+    style="max-height: 100px; margin: 0 10px;" 
   />
-</p>
+</div>
+
 
 <!--
 **glodzienski/glodzienski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
